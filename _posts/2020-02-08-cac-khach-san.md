@@ -1,13 +1,13 @@
 ---
-templateKey: blog-post
-path: /cac-khach-san
-title: Các khách sạn được yêu thích ở Phú Quốc
-image: 'https://r-ec.bstatic.com/images/hotel/max1024x768/807/80728313.jpg' 
+layout: post
+title: "Các khách sạn được yêu thích ở Phú Quốc"
+date: 2020-02-08
+description: 
+image: /assets/images/80728313.jpg
+author: Thomas Vaeth
 tags:
-  - Dao
-date: 2019-08-27T13:12:33.962Z
-uev: 4.18.8
-description: Các khách sạn được yêu thích ở Phú Quốc các bạn nên tới.
+  - Kinh nghiệm
+
 ---
 
 **1. Halona Hotel Phu Quoc**
