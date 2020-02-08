@@ -1,13 +1,14 @@
 ---
-templateKey: blog-post
-path: /nen-di
-title: Nên đi du lịch Phú Quốc vào thời gian nào?
-image: 'https://vietnow.org/wp-content/uploads/2018/10/b%C3%A3i-sao-ph%C3%BA-qu%E1%BB%91c.jpg' 
+
+
+layout: post
+title: "Nên đi du lịch Phú Quốc vào thời gian nào?"
+date: 2020-02-08
+description: 
+image: /assets/images/bãi-sao-phú-quốc.jpg
+author: Thomas Vaeth
 tags:
-  - Dao
-date: 2019-06-23T13:12:33.962Z
-uev: 4.18.8
-description: Bạn có thể tới Phú Quốc vào bất kỳ thời điểm nào trong năm.
+  - Kinh nghiệm
 
 
 ---

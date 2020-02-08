@@ -1,13 +1,14 @@
 ---
-templateKey: blog-post
-path: /6-bi-kip
-title: 6 bí kíp chọn bikini cực chuẩn
-image: 'https://media.ex-cdn.com/EXP/media.phunutoday.vn/files/upload_images/2016/07/05/the-face-vietnam-tap-4_phunutoday_vn%201.jpg' 
+
+
+layout: post
+title: "6 bí kíp chọn bikini cực chuẩn"
+date: 2020-02-08
+description: 
+image: /assets/images/the-face-vietnam-tap-4_phunutoday_vn 1.jpg
+author: Thomas Vaeth
 tags:
-  - Dao
-date: 2019-07-09T13:12:33.962Z
-uev: 4.18.8
-description: Dịp tết Mậu Tuất 2018 này bạn đang có dự định cùng gia đình du lịch Phú Quốc? Mà đi biển Phú Quốc thì hẳn là không thể không bơi lội. 
+  - Mẹo hay
 ---
 Vậy 6 bí kíp chọn bikini cực chuẩn theo từng dáng dưới đây sẽ là bí quyết để bạn lựa chọn được bộ đồ bơi đẹp, phù hợp để tự tin khoe dáng giữa biển trời đảo ngọc ngày tết.
 

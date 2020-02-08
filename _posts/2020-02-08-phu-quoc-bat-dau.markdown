@@ -1,13 +1,14 @@
 ---
-templateKey: blog-post
-path: /phu-quoc-bat-dau
-title: Phú Quốc bắt đầu vận hành smart city
-image: 'https://1.bp.blogspot.com/-QaTQNazEfBk/XNKPAIbbXMI/AAAAAAAAAUE/vNj3ZmrzjlMuqG_z565kcjke9UCsLdu1QCEwYBhgL/s1600/vsc-4.jpg' 
+
+
+layout: post
+title: "Phú Quốc bắt đầu vận hành smart city"
+date: 2020-02-08
+description: 
+image: /assets/images/vsc-4.jpg
+author: Thomas Vaeth
 tags:
-  - Dao
-date: 2019-06-23T13:12:33.962Z
-uev: 4.18.8
-description: Cuối tuần qua, Tập đoàn VNPT và UBND tỉnh Kiên Giang đã tổ chức Lễ công bố giai đoạn I của Đề án Xây dựng Thành phố thông minh Phú Quốc (smart city Phú Quốc).
+  - Tin tức
 ---
 
 **Vận hành đồng thời các hệ thống thông minh**

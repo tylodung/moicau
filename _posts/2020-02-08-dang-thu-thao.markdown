@@ -1,13 +1,14 @@
 ---
-templateKey: blog-post
-path: /dang-thu-thao
-title: Đặng Thu Thảo rạng ngời đi event ở Phú Quốc
-image: 'https://video-thumbs-ext.mediacdn.vn/2018/11/25/1-1543125871807537146968.jpg?678' 
+
+
+layout: post
+title: "Đặng Thu Thảo rạng ngời đi event ở Phú Quốc"
+date: 2020-02-08
+description: 
+image: /assets/images/1-1543125871807537146968.jpg
+author: Thomas Vaeth
 tags:
-  - Dao
-date: 2019-06-23T13:12:33.962Z
-uev: 4.18.8
-description: Hoa hậu Việt Nam 2012 khoe nụ cười tỏa nắng trước ống kính.
+  - Tin tức
 
 
 ---
