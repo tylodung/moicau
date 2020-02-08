@@ -8,7 +8,7 @@ description:
 image: /assets/images/vsc-4.jpg
 author: Thomas Vaeth
 tags:
-  - Tin tức
+  - Tin tuc
 ---
 
 **Vận hành đồng thời các hệ thống thông minh**

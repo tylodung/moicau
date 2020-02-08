@@ -6,7 +6,7 @@ description:
 image: /assets/images/maxresdefault.jpg
 author: Thomas Vaeth
 tags:
-  - Kinh nghiệm
+  - Kinh nghiem
 ---
 Tuy nhiên, để chuyến lặn ngắm san hô Phú Quốc của bạn thú vị, bạn cũng cần chuẩn bị cho mình trước một số thông tin. Ví dụ: không biết bơi có lặn ngắm san hô được không? Nên mua tour lặn ngắm san hô nào ở Phú Quốc? Giá bao nhiêu tiền?
 

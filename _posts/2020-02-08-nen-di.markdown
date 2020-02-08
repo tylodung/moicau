@@ -8,7 +8,7 @@ description:
 image: /assets/images/bãi-sao-phú-quốc.jpg
 author: Thomas Vaeth
 tags:
-  - Kinh nghiệm
+  - Kinh nghiem
 
 
 ---

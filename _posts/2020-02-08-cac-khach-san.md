@@ -6,7 +6,7 @@ description:
 image: /assets/images/80728313.jpg
 author: Thomas Vaeth
 tags:
-  - Kinh nghiệm
+  - Kinh nghiem
 
 ---
 

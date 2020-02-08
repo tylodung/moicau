@@ -6,7 +6,7 @@ description:
 image: /assets/images/ngoctho.jpg
 author: Thomas Vaeth
 tags:
-  - Tin tức
+  - Tin tuc
 
 ---
 

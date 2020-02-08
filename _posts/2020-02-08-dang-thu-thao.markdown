@@ -8,7 +8,7 @@ description:
 image: /assets/images/1-1543125871807537146968.jpg
 author: Thomas Vaeth
 tags:
-  - Tin tức
+  - Tin tuc
 
 
 ---

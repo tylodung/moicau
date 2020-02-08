@@ -6,7 +6,7 @@ description:
 image: /assets/images/chup-hinh-cuoi-ho-tram-13.jpg
 author: Thomas Vaeth
 tags:
-  - Kinh nghiệm
+  - Kinh nghiem
 
 ---
 

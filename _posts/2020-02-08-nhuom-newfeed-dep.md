@@ -6,7 +6,7 @@ description:
 image: /assets/images/thai-lan-1280x720.jpg
 author: Thomas Vaeth
 tags:
-  - Kinh nghiệm
+  - Kinh nghiem
 
 ---
 Nơi đây có tốc độ phát triển kinh tế nhanh trong khu vực và ngang hàng với Singapore hay Hồng Kông. Thủ đô của Thái Lan được biết đến là địa điểm du lịch lý tưởng và trung tâm mua sắm giá rẻ hàng đầu.
