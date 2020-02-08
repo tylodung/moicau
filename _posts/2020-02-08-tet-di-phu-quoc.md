@@ -6,7 +6,7 @@ description:
 image: /assets/images/mui-dinh-cau-dia-diem-du-lich-phu-quoc-1.jpg
 author: Thomas Vaeth
 tags:
-  - Địa điểm
+  - Dia diem
 
 ---
 
