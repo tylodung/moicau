@@ -1,13 +1,13 @@
 ---
-templateKey: blog-post
-path: /chuong-trinh-bieu-dien
-title: Biểu diễn nghệ thuật khai mạc năm du lịch quốc gia tại Phú Quốc
-image: 'https://i.ytimg.com/vi/Nw0Xs6lDrG4/maxresdefault.jpg' 
+layout: post
+title: "Biểu diễn nghệ thuật khai mạc năm du lịch quốc gia tại Phú Quốc"
+date: 2020-02-08
+description: 
+image: /assets/images/bieudien.jpg
+author: Thomas Vaeth
 tags:
-  - Dao
-date: 2019-07-10T13:12:33.962Z
-uev: 4.18.8
-description: Chương trình biểu diễn nghệ thuật khai mạc Năm Du lịch quốc gia.
+  - Tin tức
+
 ---
 
 ![ten buc hinh](http://baodansinh.vn/Images/2016/04/08/ngoctanhhcm/khan_dai_khai_mac.jpg "ten buc hinh")

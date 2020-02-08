@@ -1,13 +1,13 @@
 ---
-templateKey: blog-post
-path: /tet-di-phu-quoc
-title: Tết đi Phú Quốc ghé Dinh Cậu cầu tài lộc
-image: 'https://dulichtoday.vn/wp-content/uploads/2019/06/mui-dinh-cau-dia-diem-du-lich-phu-quoc-1.jpg' 
+layout: post
+title: "Tết đi Phú Quốc ghé Dinh Cậu cầu tài lộc"
+date: 2020-02-08
+description: 
+image: /assets/images/mui-dinh-cau-dia-diem-du-lich-phu-quoc-1.jpg
+author: Thomas Vaeth
 tags:
-  - Dao
-date: 2019-07-18T13:12:33.962Z
-uev: 4.18.8
-description: Tết đến xuân về là dịp mọi người trong gia đình sum vầy hạnh phúc bên nhau.
+  - Địa điểm
+
 ---
 
 Hòa vào dòng người đi lễ, mỗi người trong chúng ta sẽ cảm nhận được sự giao hòa của trời – đất. Mùi hương thoang thoảng cùng sắc màu rực rỡ của hoa, của ánh đèn, nến tràn ngập khắp nơi ở chốn linh thiêng sẽ làm cho lòng người trở nên nhẹ nhàng, thanh thản. Tết Đinh Dậu 2017 này bạn cùng gia đình sẽ đi đâu cầu an? Một lựa chọn hấp dẫn cho bạn là hãy đến với hòn đảo Phú Quốc xinh đẹp.

@@ -1,13 +1,13 @@
 ---
-templateKey: blog-post
-path: /nhuom-newfeed-dep
-title: Du lịch Băng Cốc Thái Lan vào mùa nào là thích hợp nhất?
-image: 'https://viettelcargo.com/wp-content/uploads/2017/08/thai-lan-1280x720.jpg' 
+layout: post
+title: "Du lịch Băng Cốc Thái Lan vào mùa nào là thích hợp nhất?"
+date: 2020-02-08
+description: 
+image: /assets/images/thai-lan-1280x720.jpg
+author: Thomas Vaeth
 tags:
-  - Dao
-date: 2019-07-18T13:12:33.962Z
-uev: 4.18.8
-description: Băng Cốc là thủ đô, thành phố lớn nhất của Thái Lan - một nước thuộc khu vực Đông Nam Á, nằm ở hữu ngạn sông Phraya.  
+  - Kinh nghiệm
+
 ---
 Nơi đây có tốc độ phát triển kinh tế nhanh trong khu vực và ngang hàng với Singapore hay Hồng Kông. Thủ đô của Thái Lan được biết đến là địa điểm du lịch lý tưởng và trung tâm mua sắm giá rẻ hàng đầu.
 

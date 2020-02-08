@@ -1,13 +1,13 @@
 ---
-templateKey: blog-post
-path: /mua-nao-chup
-title: Mùa nào chụp ảnh cưới đẹp nhất ở đảo Phú Quốc?
-image: 'https://tapchicuoihoi.com/wp-content/uploads/2018/03/chup-hinh-cuoi-ho-tram-13.jpg' 
+layout: post
+title: "Mùa nào chụp ảnh cưới đẹp nhất ở đảo Phú Quốc?"
+date: 2020-02-08
+description: 
+image: /assets/images/chup-hinh-cuoi-ho-tram-13.jpg
+author: Thomas Vaeth
 tags:
-  - Dao
-date: 2019-07-10T13:12:33.962Z
-uev: 4.18.8
-description: Đó là cánh rừng nguyên sinh bạt ngàn, xanh mướt, là những khu vườn trồng tiêu/ sim trải dài tít tắp, là những ngọn suối vừa hùng vĩ vừa lãng mạn như suối Tranh, suối Đá Bàn, suối Đá Ngọn.
+  - Kinh nghiệm
+
 ---
 
 Chụp ảnh cưới ở Phú Quốc dường như bây giờ trở thành 1 trào lưu, 1 xu hướng mới mà không ai không muốn trải nghiệm. Cảm giác chiếc váy cưới bồng bềnh tung bay trong gió biển, khung cảnh thiên nhiên bao la như ôm trọn lấy đôi uyên ương thắm thiết này. Khí hậu ở Phú Quốc cùng mang những đặc tính của khí hậu miền nam, nơi đây chia ra thành 2 mùa rõ rệt, mùa mưa và mùa khô. Mùa mưa bắt đầu từ tháng 7 – tháng 11 hằng năm, mùa khô bắt đầu từ tháng 12 đến tháng 6 năm sau. Nếu như mùa mưa các dòng suối thêm hùng vĩ, cây cối cũng tốt tươi hơn thì mùa khô biển lại phẳng lặng và trong xanh hơn nhiều. Mùa nào thì Phú Quốc cũng mang một vẻ đẹp khó tả.

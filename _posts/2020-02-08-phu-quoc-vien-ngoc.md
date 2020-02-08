@@ -1,13 +1,13 @@
 ---
-templateKey: blog-post
-path: /phu-quoc-vien-ngoc
-title: Viên ngọc thô sơ đang được mài giũa
-image: 'https://i.ytimg.com/vi/hZykzyUORh8/maxresdefault.jpg' 
+layout: post
+title: "Viên ngọc thô sơ đang được mài giũa"
+date: 2020-02-08
+description: 
+image: /assets/images/ngoctho.jpg
+author: Thomas Vaeth
 tags:
-  - Dao
-date: 2019-07-10T13:12:33.962Z
-uev: 4.18.8
-description: Viên ngọc thô sơ đang được mài giũa trong ngành du lịch Việt Nam. Tại sao lại như vậy và điều gì làm cho Phú Quốc trở thành top những điểm đến du lịch tốt nhất ở Việt Nam?
+  - Tin tức
+
 ---
 
 **1. "Hòn đảo thiên đường" Phú Quốc**
