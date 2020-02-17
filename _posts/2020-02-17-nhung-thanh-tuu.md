@@ -1,13 +1,13 @@
 ---
-templateKey: blog-post
-path: /nhung-thanh-tuu
-title: Những thành tựu sau giai đoạn I của đề án Thành phố thông minh tại Phú Quốc
-image: 'https://phatdatreal.com/wp-content/uploads/2019/02/IMG_0720.jpg' 
+layout: post
+title: "Những thành tựu sau giai đoạn I của đề án Thành phố thông minh tại Phú Quốc"
+date: 2020-02-17
+description: 
+image: /assets/images/IMG_0720.jpg
+author: Thomas Vaeth
 tags:
-  - Dao
-date: 2019-07-24T13:12:33.962Z
-uev: 4.18.8
-description: Ngày 27.10.2017 vừa qua, UBND huyện đảo Phú Quốc và VNPT đã chính thức công bố hoàn thành Giai đoạn 1 Đề án xây dựng thành phố thông minh Phú Quốc.
+  - Tin Tuc
+
 ---
 
 **Hệ thống Wifi công cộng**
