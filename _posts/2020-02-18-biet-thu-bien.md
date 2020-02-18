@@ -1,13 +1,13 @@
 ---
-templateKey: blog-post
-path: /biet-thu-bien
-title: Biệt thự biển GO GREEN duy nhất tại Phú Quốc hút nhà đầu tư
-image: 'https://vd-art.vn/wp-content/uploads/2014/02/mau-thiet-ke-biet-thu-thuan-viet-1280x720.jpg' 
+layout: post
+title: "Biệt thự biển GO GREEN duy nhất tại Phú Quốc hút nhà đầu tư"
+date: 2020-02-18
+description: 
+image: /assets/images/mau-thiet-ke-biet-thu-thuan-viet-1280x720.jpg
+author: Thomas Vaeth
 tags:
-  - Dao
-date: 2019-07-23T13:12:33.962Z
-uev: 4.18.8
-description: Biệt thự biển mang phong cách kiến trúc “Go Green” đang dần trở thành lựa chọn nghỉ dưỡng hàng đầu. 
+  - Tin Tuc
+ 
 ---
 Vì lẽ đó, các biệt thự biển tại các thiên đường như Bali, Phuket luôn hấp dẫn khách du lịch và “cháy phòng” vào mùa cao điểm.
 
