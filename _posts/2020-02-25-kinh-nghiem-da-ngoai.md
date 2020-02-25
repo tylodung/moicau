@@ -1,13 +1,13 @@
 ---
-templateKey: blog-post
-path: /kinh-nghiem-da-ngoai
-title: Kinh nghiệm dã ngoại Ecopark cho gia đình có con nhỏ
-image: 'https://pystravel.vn/uploads/posts/avatar/1554090984.jpg' 
+layout: post
+title: "Kinh nghiệm dã ngoại Ecopark cho gia đình có con nhỏ"
+date: 2020-02-25
+description: 
+image: /assets/images/1554090984.jpg
+author: Thomas Vaeth
 tags:
-  - Dao
-date: 2019-08-27T13:12:33.962Z
-uev: 4.18.8
-description: Nếu bạn muốn con được tận hưởng kỳ nghỉ hòa mình với thiên nhiên, tạm rời xa điện thoại, máy tính, bài viết kinh nghiệm dã ngoại Ecopark cho gia đình có con nhỏ, ngày cuối tuần đích thực là dành cho bạn.
+  - Kinh Nghiem
+
 ---
 
 Nếu bạn muốn con quên điện thoại và máy tính, chăm ra ngoài vận động. Hay đơn giản, bạn muốn con được sống hòa mình với thiên nhiên. Gia đình bạn đã suy nghĩ nhiều ngày nhưng chưa có kế hoạch vui chơi dù ngày Lễ 30/4 – 1/5 đang đến gần?

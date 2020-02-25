@@ -1,13 +1,13 @@
 ---
-templateKey: blog-post
-path: /cap-nhat-lich
-title: Cập nhật lịch bảo trì các trò chơi trong tháng 10 tại Vinpearl Land Phú Quốc
-image: 'https://i.ytimg.com/vi/6ZEFiX36vKI/maxresdefault.jpg' 
+layout: post
+title: "Cập nhật lịch bảo trì các trò chơi trong tháng 10 tại Vinpearl Land Phú Quốc"
+date: 2020-02-25
+description: 
+image: /assets/images/viper.jpg
+author: Thomas Vaeth
 tags:
-  - Dao
-date: 2019-07-24T13:12:33.962Z
-uev: 4.18.8
-description: Theo thông báo mới nhất từ ban quản lý Công viên vui chơi giải trí Vinpearl Land Phú Quốc về kế hoạch bảo trì trò chơi trong tháng 10/2017 sẽ diễn ra từ 9h00-15h00 ngày bảo trì. 
+  - Kinh Nghiem
+
 ---
 Thay vào đó mỗi ngày sẽ bảo trì 1 trò chơi khác nhau nhằm đảm bảo an toàn cho du khách khi vui chơi tại đây. Sau đây chúng ta cùng cập nhật nhanh lịch bảo trì các trò chơi trong tháng 10 tại Vinpearl Land Phú Quốc nhé. 
 
