@@ -1,13 +1,13 @@
 ---
-templateKey: blog-post
-path: /tat-tan-tat
-title: Kinh nghiệm về du lịch biển đảo Thái Lan
-image: 'https://i.ytimg.com/vi/mYunE9yaKbw/maxresdefault.jpg' 
+layout: post
+title: "Kinh nghiệm về du lịch biển đảo Thái Lan"
+date: 2020-03-06
+description: 
+image: /assets/images/daokohphiphi.jpg
+author: Thomas Vaeth
 tags:
-  - Thai Lan
-date: 2019-09-26T13:12:33.962Z
-uev: 4.18.8
-description: Là một điểm du lịch hot khu vực Đông Nam Á, Thái Lan vẫn được xếp vào danh sách điểm đến lý tưởng, gần và dễ đi.
+  - Kinh Nghiem
+
 ---
 
 **1. Tránh xa mùa cao điểm ở Thái**

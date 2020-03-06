@@ -1,13 +1,13 @@
 ---
-templateKey: blog-post
-path: /phu-quoc-tro-thanh
-title: Phú Quốc trở thành đặc khu kinh tế
-image: 'https://www.hataland.com/wp-content/uploads/2017/12/dao_phu_quoc_4.jpg' 
+layout: post
+title: "Phú Quốc trở thành đặc khu kinh tế"
+date: 2020-03-06
+description: 
+image: /assets/images/dao_phu_quoc_4.jpg
+author: Thomas Vaeth
 tags:
-  - Dao
-date: 2019-09-26T13:12:33.962Z
-uev: 4.18.8
-description: Với 3 khu đô thị và 15 khu sinh thái, đảo Phú Quốc sẽ trở thành khu kinh tế – hành chính đặc biệt; trung tâm du lịch sinh thái, nghỉ dưỡng...
+  - Tin Tuc
+
 ---
 
 Khu đô thị Dương Đông sẽ là trung tâm của thành phố du lịch đảo Phú Quốc. Đây là trung tâm hành chính, dịch vụ công cộng, thương mại, tài chính quốc tế, dịch vụ du lịch và khu dân cư tập trung của đảo. Ngoài ra, còn có khu đô thị cảng An Thới và khu đô thị Cửa Cạn. Khu đô thị An Thới sẽ là cảng quốc tế, đầu mối kỹ thuật – trung tâm tiếp vận, phi thuế quan, thương mại, du lịch… còn khu đô thị Cửa Cạn sẽ dành cho hoạt động nghiên cứu, bảo tồn rừng, biển, nông nghiệp và du lịch đảo.
