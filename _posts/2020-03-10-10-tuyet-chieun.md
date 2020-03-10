@@ -1,13 +1,13 @@
 ---
-templateKey: blog-post
-path: /10-tuyet-chieu
-title: 10 tuyệt chiêu dụ bé khi di chuyển bằng máy bay ra Phú Quốc ngày tết
-image: 'https://hvntravel.com/wp-content/uploads/2019/05/phi-truong.png' 
+layout: post
+title: "10 cách dụ bé khi di chuyển bằng máy bay ra Phú Quốc ngày tết"
+date: 2020-03-10
+description: 
+image: /assets/images/phi-truong.png
+author: Thomas Vaeth
 tags:
-  - Dao
-date: 2019-10-02T13:12:33.962Z
-uev: 4.18.8
-description: Du lịch cùng trẻ nhỏ sẽ luôn có nhiều tình huống bất ngờ xảy ra, nhất là khi đang ở trên máy bay khiến các ông bố bà mẹ không kịp xử lý.
+  - Kinh Nghiem
+
 ---
 
 **1. Món ăn vặt**

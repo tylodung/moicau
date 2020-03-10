@@ -1,13 +1,13 @@
 ---
-templateKey: blog-post
-path: /cung-trai-nghiem
-title: Chuyến câu mực đêm trên biển Phú Quốc dịp Tết
-image: 'https://i.ytimg.com/vi/WIlht41Z4FU/maxresdefault.jpg' 
+layout: post
+title: "Chuyến câu mực đêm trên biển Phú Quốc dịp Tết hấp dẫn"
+date: 2020-03-10
+description: 
+image: /assets/images/caumuc.jpg
+author: Thomas Vaeth
 tags:
-  - Bien
-date: 2019-10-02T13:12:33.962Z
-uev: 4.18.8
-description: Hòa mình vào không khí tưng bừng, náo nức của ngày tết cổ truyền, xuân về trên xứ đảo cũng rực rỡ sắc màu và tấp nập hơn thường ngày.
+  - Kinh Nghiem
+
 ---
 
 Phú Quốc đã và đang là điểm du lịch hấp dẫn thu hút rất đông du khách đến tham quan nên vào những ngày này lại càng tấp nập và nhộn nhịp hơn. Để chào đón du khách của mình người dân xứ đảo cũng nhộn nhịp tổ chức các phong trào, các lễ hội đầu năm.
