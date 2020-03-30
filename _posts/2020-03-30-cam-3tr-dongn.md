@@ -1,13 +1,13 @@
 ---
-templateKey: blog-post
-path: /cam-3tr-dong
-title: Sống trọn cả thanh xuân ở Thiên Cầm chỉ với 3 triệu đồng
-image: 'https://tour.dulichvietnam.com.vn/uploads/tour/thiem-cam.jpg.jpg' 
+layout: post
+title: "Sống trọn cả thanh xuân ở Thiên Cầm chỉ với 3 triệu đồng"
+date: 2020-03-30
+description: 
+image: /assets/images/thiem-cam.jpg.jpg
+author: Thomas Vaeth
 tags:
-  - Bien
-date: 2019-10-04T13:12:33.962Z
-uev: 4.18.8
-description: Biển Thiên Cầm được mệnh danh là thiên đường nghỉ dưỡng tại Hà Tĩnh bởi nét hoang sơ, yên tĩnh và trong lành. 
+  - Dia diem
+
 ---
 Nơi đây được coi là điểm đến yêu thích của rất nhiều du khách. 
 

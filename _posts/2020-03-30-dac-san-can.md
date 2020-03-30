@@ -1,13 +1,13 @@
 ---
-templateKey: blog-post
-path: /dac-san-ca
-title: Đặc sản cá bớp Phú Quốc liên tục được đề cử
-image: 'https://i.ytimg.com/vi/GynxHgYIxOk/maxresdefault.jpg' 
+layout: post
+title: "Đặc sản cá bớp Phú Quốc liên tục được đề cử"
+date: 2020-03-30
+description: 
+image: /assets/images/camuop.jpg
+author: Thomas Vaeth
 tags:
   - Am thuc
-date: 2019-09-26T13:12:33.962Z
-uev: 4.18.8
-description: Cá bớp là một loại cá được chế biến được nhiều món ăn ngon hấp dẫn và mới đây đặc sản cá bớp Phú Quốc liên tục được đề cử trong chương trình Thiên Đường Ẩm Thực.
+
 ---
 
 **Súp cá bớp tomyum**
