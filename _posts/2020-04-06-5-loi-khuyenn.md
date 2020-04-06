@@ -1,13 +1,13 @@
 ---
-templateKey: blog-post
-path: /5-loi-khuyen
-title: 5 lời khuyên cho nhóm gia đình đông du lịch Phú Quốc ngày tết
-image: 'https://phuquocxanh.com/vi/wp-content/uploads/2018/09/du-lich-phu-quoc-tet-ky-hoi-2019-003.jpg' 
+layout: post
+title: "5 lời khuyên cho nhóm gia đình đông du lịch Phú Quốc ngày tết"
+date: 2020-04-06
+description: 
+image: /assets/images/du-lich-phu-quoc-tet.jpg
+author: Thomas Vaeth
 tags:
   - Kinh nghiem
-date: 2019-11-02T13:12:33.962Z
-uev: 4.18.8
-description: Tết Mậu Tuất 2018 này đại gia đình bạn đang chuẩn bị có kế hoạch đi du lịch cùng nhau với chương trình du lịch Phú Quốc 4 ngày 3 đêm. 
+
 ---
 Được ví như đảo ngọc của Việt Nam sở hữu cảnh sắc thiên nhiên hoang sơ, trong xanh và quyến rũ, yên bình. 
 
